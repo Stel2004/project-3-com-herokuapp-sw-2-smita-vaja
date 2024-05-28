@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import project_3_browserfactory.BaseTest;
+import browserfactory.BaseTest;
 
 /**
  * 3. Write down the following test into ‘LoginTest’ class
